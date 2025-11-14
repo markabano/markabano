@@ -54,8 +54,8 @@
   <a href="https://instagram.com/markabano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://markabano.vercell.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23ff7eb3%20→%20%23ff758c?style=for-the-badge&logo=figma&logoColor=white" height="28" />
+  <a href="https://markabano.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23ff7eb3%20→%20%23ff758c?style=for-the-badge&logo=figma&logoColor=white" height="25" />
   </a>
 </div>
 
